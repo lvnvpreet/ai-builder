@@ -1,6 +1,8 @@
 fastapi>=0.100.0
 uvicorn[standard]>=0.20.0
 python-dotenv>=1.0.0
-transformers>=4.0.0
-torch>=1.8.0 # Or tensorflow>=2.0.0 if preferred
-# Add other specific libraries later if needed
+transformers>=4.30.0
+torch>=2.0.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+numpy>=1.26.0
