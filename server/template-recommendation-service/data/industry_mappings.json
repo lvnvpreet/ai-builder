@@ -1,0 +1,46 @@
+{
+    "technology": ["template_1", "template_3"],
+    "software": ["template_1"],
+    "hardware": ["template_1"],
+    "consulting": ["template_1"],
+    "professional_services": ["template_1"],
+    
+    "ecommerce": ["template_2"],
+    "retail": ["template_2"],
+    "fashion": ["template_2"],
+    
+    "creative": ["template_3"],
+    "design": ["template_3"],
+    "portfolio": ["template_3"],
+    "photography": ["template_3"],
+    "art": ["template_3"],
+    
+    "restaurant": ["template_4"],
+    "cafe": ["template_4"],
+    "food_service": ["template_4"],
+    "hospitality": ["template_4"],
+    "catering": ["template_4"],
+    
+    "blog": ["template_5"],
+    "media": ["template_5"],
+    "publishing": ["template_5"],
+    "content_creation": ["template_5"],
+    "writing": ["template_5"],
+    
+    "healthcare": ["template_6"],
+    "medical": ["template_6"],
+    "wellness": ["template_6"],
+    "therapy": ["template_6"],
+    "fitness": ["template_6"],
+    
+    "real_estate": ["template_7"],
+    "property": ["template_7"],
+    "construction": ["template_7"],
+    "architecture": ["template_7"],
+    
+    "education": ["template_8"],
+    "e-learning": ["template_8"],
+    "training": ["template_8"],
+    "academic": ["template_8"],
+    "coaching": ["template_8"]
+  }

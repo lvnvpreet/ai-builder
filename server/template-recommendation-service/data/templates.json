@@ -1,0 +1,74 @@
+{
+    "template_1": {
+      "name": "Modern Business",
+      "description": "A sleek, professional template for modern businesses featuring a clean design and impressive hero section.",
+      "industries": ["technology", "consulting", "professional_services"],
+      "style": "modern",
+      "features": ["responsive design", "contact form", "testimonials section", "services showcase"],
+      "target_audience": ["professionals", "corporate clients"],
+      "previewUrl": "/previews/template_1.png"
+    },
+    "template_2": {
+      "name": "E-commerce Essential",
+      "description": "A conversion-focused template for online stores with product galleries and checkout integration.",
+      "industries": ["ecommerce", "retail", "fashion"],
+      "style": "minimal",
+      "features": ["product showcase", "shopping cart", "category navigation", "search functionality"],
+      "target_audience": ["shoppers", "online consumers"],
+      "previewUrl": "/previews/template_2.png"
+    },
+    "template_3": {
+      "name": "Creative Portfolio",
+      "description": "An artistic template for showcasing creative work with stunning visuals and project galleries.",
+      "industries": ["creative", "portfolio", "photography", "design"],
+      "style": "artistic",
+      "features": ["gallery views", "project showcase", "animation effects", "minimal text focus"],
+      "target_audience": ["creatives", "artists", "designers"],
+      "previewUrl": "/previews/template_3.png" 
+    },
+    "template_4": {
+      "name": "Restaurant & Cafe",
+      "description": "A mouth-watering template for restaurants, cafes, and food businesses, featuring menu displays and reservation systems.",
+      "industries": ["restaurant", "cafe", "food_service", "hospitality"],
+      "style": "warm",
+      "features": ["menu display", "reservation system", "location map", "food gallery"],
+      "target_audience": ["diners", "food enthusiasts"],
+      "previewUrl": "/previews/template_4.png"
+    },
+    "template_5": {
+      "name": "Professional Blog",
+      "description": "A content-focused template for bloggers and content creators with excellent readability and sharing features.",
+      "industries": ["blog", "media", "publishing", "content_creation"],
+      "style": "clean",
+      "features": ["article layout", "categories", "author profiles", "social sharing"],
+      "target_audience": ["readers", "content consumers"],
+      "previewUrl": "/previews/template_5.png"
+    },
+    "template_6": {
+      "name": "Healthcare Professional",
+      "description": "A trustworthy and calming template for healthcare providers, clinics, and medical professionals.",
+      "industries": ["healthcare", "medical", "wellness", "therapy"],
+      "style": "professional",
+      "features": ["appointment booking", "staff profiles", "service descriptions", "patient resources"],
+      "target_audience": ["patients", "healthcare seekers"],
+      "previewUrl": "/previews/template_6.png"
+    },
+    "template_7": {
+      "name": "Real Estate Showcase",
+      "description": "An elegant template for real estate agents and property listings with stunning property displays.",
+      "industries": ["real_estate", "property", "construction"],
+      "style": "luxury",
+      "features": ["property listings", "agent profiles", "interactive maps", "inquiry forms"],
+      "target_audience": ["homebuyers", "property investors", "renters"],
+      "previewUrl": "/previews/template_7.png"
+    },
+    "template_8": {
+      "name": "Educational Platform",
+      "description": "A structured template for educational institutions, online courses, and learning platforms.",
+      "industries": ["education", "e-learning", "training", "academic"],
+      "style": "organized",
+      "features": ["course listings", "faculty profiles", "resource library", "event calendar"],
+      "target_audience": ["students", "learners", "educators"],
+      "previewUrl": "/previews/template_8.png"
+    }
+  }
