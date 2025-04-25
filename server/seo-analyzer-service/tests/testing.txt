@@ -1,0 +1,25 @@
+# Test basic SEO analysis
+curl -X POST http://localhost:3006/seo \
+  -H "Content-Type: application/json" \
+  -d '{
+    "text": "Your content here...",
+    "target_keywords": ["keyword1", "keyword2"],
+    "competitor_urls": ["https://competitor1.com"]
+  }'
+
+# Test competitor analysis
+curl -X POST http://localhost:3006/competitor-analysis \
+  -H "Content-Type: application/json" \
+  -d '{
+    "competitor_urls": ["https://competitor1.com"],
+    "your_content": "Your content here...",
+    "target_keywords": ["keyword1"]
+  }'
+
+# Test keyword research
+curl -X POST http://localhost:3006/keyword-research \
+  -H "Content-Type: application/json" \
+  -d '{
+    "seed_keywords": ["seo", "marketing"],
+    "industry": "technology"
+  }'

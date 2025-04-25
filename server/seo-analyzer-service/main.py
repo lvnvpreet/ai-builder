@@ -10,10 +10,10 @@ from typing import Dict, List, Optional, Set, Any
 import asyncio
 import json
 import aiohttp
-from .analyzers.competitor_analyzer import CompetitorAnalyzer
-from .analyzers.keyword_analyzer import KeywordAnalyzer
-from .analyzers.content_gap_analyzer import ContentGapAnalyzer
-from .analyzers.recommendation_engine import SEORecommendationEngine
+from analyzers.competitor_analyzer import CompetitorAnalyzer
+from analyzers.keyword_analyzer import KeywordAnalyzer
+from analyzers.content_gap_analyzer import ContentGapAnalyzer
+from analyzers.recommendation_engine import SEORecommendationEngine
 
 # Load environment variables from .env file
 load_dotenv()

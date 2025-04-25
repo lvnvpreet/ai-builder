@@ -1,0 +1,17 @@
+{
+  "technology": [
+    "https://techcrunch.com",
+    "https://wired.com",
+    "https://thenextweb.com"
+  ],
+  "marketing": [
+    "https://hubspot.com/marketing",
+    "https://neilpatel.com",
+    "https://searchenginejournal.com"
+  ],
+  "ecommerce": [
+    "https://shopify.com/blog",
+    "https://bigcommerce.com/blog",
+    "https://woocommerce.com/posts"
+  ]
+}
